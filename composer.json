@@ -1,0 +1,24 @@
+{
+    "name": "monashee/php-simple-html-dom-parser",
+    "description": "Laravel wrapper for the PHP Simple HTML DOM Parser package.",
+    "keywords": ["laravel", "php simple html dom parser"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "monashee",
+            "email": "derek@marcinyshyn.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "phpspec/phpspec": "~2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monashee\\PhpSimpleHtmlDomParser\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

@@ -1,5 +1,7 @@
 # Laravel PHP Simple HTML DOM Parser
 
+[![Build Status](https://travis-ci.org/DerekMarcinyshyn/php-simple-html-dom-parser.svg?branch=master)](https://travis-ci.org/DerekMarcinyshyn/php-simple-html-dom-parser)
+
 Thin wrapper for http://simplehtmldom.sourceforge.net/ and provides the two public static functions
 
 ```php file_get_html() ``` and ```php str_get_html() ```

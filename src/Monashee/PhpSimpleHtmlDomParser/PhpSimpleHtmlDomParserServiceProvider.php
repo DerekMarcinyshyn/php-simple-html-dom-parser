@@ -2,6 +2,10 @@
 
 use Illuminate\Support\ServiceProvider;
 
+/**
+ * Class PhpSimpleHtmlDomParserServiceProvider
+ * @package Monashee\PhpSimpleHtmlDomParser
+ */
 class PhpSimpleHtmlDomParserServiceProvider extends ServiceProvider {
 
 	/**
